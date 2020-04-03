@@ -16,7 +16,7 @@ And here is the output steganographic DNA:
 
 <img src="vexilla.png" alt="example" width="600" height="150" />
 
-To reverse the process, simply use the '-r' switch (for 'read'), the '-i' switch to indicate the input (steganographic) DNA file, and the '-k' switch to designate the key:
+To reverse the process, simply use the '-r' switch (for 'read'), and the '-i' switch to indicate the input (steganographic) DNA file:
 
 DNAsteg.py -r -i inferni.txt
 
